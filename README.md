@@ -1,6 +1,7 @@
 # 💫 Sobre mim:
-Eu sou o Nicolas Gomes, desenvolvedor Front-End.
-
+- Cursando Desenvolvimento de Sistemas
+- Desenvolvedor FullStack
+- 18 anos
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev_nick/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gomes-0241b915b/) 
