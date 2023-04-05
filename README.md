@@ -1,7 +1,8 @@
 # 💫 Sobre mim:
-- Cursando Desenvolvimento de Sistemas
-- Desenvolvedor FullStack
-- 18 anos
+- Cursando Analise e Desenvolvimento de Sistemas (Superior)
+- Cursando Desenvolvimento de Sistemas (Técnico)
+- Desenvolvedor FullStack Junior
+
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev_nick/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gomes-0241b915b/) 
