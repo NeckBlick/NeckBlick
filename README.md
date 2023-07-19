@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
-- Cursando Analise e Desenvolvimento de Sistemas (Superior)
-- Cursando Desenvolvimento de Sistemas (Técnico)
+- Cursando Analise e Desenvolvimento de Sistemas 2/5 (Superior)
+- Técnico em Desenvolvimento de Sistemas
 - Desenvolvedor FullStack Junior
 
 
