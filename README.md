@@ -1,7 +1,6 @@
 # 💫 Sobre mim:
-- Cursando Analise e Desenvolvimento de Sistemas 2/5 (Superior)
-- Técnico em Desenvolvimento de Sistemas
-- Desenvolvedor FullStack Junior
+- Cursando Defesa Cibernética na FIAP
+- Formado em Desenvolvimento de Sistemas
 
 
 ## 🌐 Redes Sociais:
